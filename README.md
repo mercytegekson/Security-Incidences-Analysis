@@ -22,7 +22,9 @@ Provide actionable insights to improve security measures in humanitarian operati
 
 # Methodology
 Exploratory Data Analysis (EDA) for trends and patterns
+
 Machine Learning Models (Random Forest & Gradient Boosting) to predict incident severity
+
 Data Visualization using maps and charts to highlight key insights
 
 
